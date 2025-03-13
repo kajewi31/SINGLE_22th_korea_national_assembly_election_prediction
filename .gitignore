@@ -1,0 +1,22 @@
+# Personal
+private.py
+
+# Data
+*.xlsx
+*.csv
+*.sav
+*.jpg
+!prediction.csv
+!raw_prediction.csv
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+prediction.ipynb
+# Python
+__pycache__/
+
+# vscode
+.vscode/
+
+# Mac
+.DS_Store
